@@ -1,6 +1,6 @@
 # download private playlist
 
-This is merely a bash wrapper around [youtube-dl](https://github.com/ytdl-org/youtube-dl#output-template) to make the common use-case easier.
+This is merely a bash wrapper around [youtube-dl](https://github.com/ytdl-org/youtube-dl) to make the common use-case easier.
 
 Often I want to download the audio only of private playlists, and I want the output to go to a specified output dir. This use case requires a cookie file, and some particular arguments, so I thought I'd make a script to make like easier.
 
